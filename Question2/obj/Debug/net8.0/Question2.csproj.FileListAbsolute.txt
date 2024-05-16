@@ -1,0 +1,14 @@
+D:\.net Assignment\Assignmentno1\Question2\bin\Debug\net8.0\Question2.exe
+D:\.net Assignment\Assignmentno1\Question2\bin\Debug\net8.0\Question2.deps.json
+D:\.net Assignment\Assignmentno1\Question2\bin\Debug\net8.0\Question2.runtimeconfig.json
+D:\.net Assignment\Assignmentno1\Question2\bin\Debug\net8.0\Question2.dll
+D:\.net Assignment\Assignmentno1\Question2\bin\Debug\net8.0\Question2.pdb
+D:\.net Assignment\Assignmentno1\Question2\obj\Debug\net8.0\Question2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net Assignment\Assignmentno1\Question2\obj\Debug\net8.0\Question2.AssemblyInfoInputs.cache
+D:\.net Assignment\Assignmentno1\Question2\obj\Debug\net8.0\Question2.AssemblyInfo.cs
+D:\.net Assignment\Assignmentno1\Question2\obj\Debug\net8.0\Question2.csproj.CoreCompileInputs.cache
+D:\.net Assignment\Assignmentno1\Question2\obj\Debug\net8.0\Question2.dll
+D:\.net Assignment\Assignmentno1\Question2\obj\Debug\net8.0\refint\Question2.dll
+D:\.net Assignment\Assignmentno1\Question2\obj\Debug\net8.0\Question2.pdb
+D:\.net Assignment\Assignmentno1\Question2\obj\Debug\net8.0\Question2.genruntimeconfig.cache
+D:\.net Assignment\Assignmentno1\Question2\obj\Debug\net8.0\ref\Question2.dll

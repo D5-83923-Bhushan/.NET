@@ -1,0 +1,14 @@
+D:\.net Assignment\Assignmentno1\p6\QuestionNo6\bin\Debug\net8.0\Question6.exe
+D:\.net Assignment\Assignmentno1\p6\QuestionNo6\bin\Debug\net8.0\Question6.deps.json
+D:\.net Assignment\Assignmentno1\p6\QuestionNo6\bin\Debug\net8.0\Question6.runtimeconfig.json
+D:\.net Assignment\Assignmentno1\p6\QuestionNo6\bin\Debug\net8.0\Question6.dll
+D:\.net Assignment\Assignmentno1\p6\QuestionNo6\bin\Debug\net8.0\Question6.pdb
+D:\.net Assignment\Assignmentno1\p6\QuestionNo6\obj\Debug\net8.0\Question6.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net Assignment\Assignmentno1\p6\QuestionNo6\obj\Debug\net8.0\Question6.AssemblyInfoInputs.cache
+D:\.net Assignment\Assignmentno1\p6\QuestionNo6\obj\Debug\net8.0\Question6.AssemblyInfo.cs
+D:\.net Assignment\Assignmentno1\p6\QuestionNo6\obj\Debug\net8.0\Question6.csproj.CoreCompileInputs.cache
+D:\.net Assignment\Assignmentno1\p6\QuestionNo6\obj\Debug\net8.0\Question6.dll
+D:\.net Assignment\Assignmentno1\p6\QuestionNo6\obj\Debug\net8.0\refint\Question6.dll
+D:\.net Assignment\Assignmentno1\p6\QuestionNo6\obj\Debug\net8.0\Question6.pdb
+D:\.net Assignment\Assignmentno1\p6\QuestionNo6\obj\Debug\net8.0\Question6.genruntimeconfig.cache
+D:\.net Assignment\Assignmentno1\p6\QuestionNo6\obj\Debug\net8.0\ref\Question6.dll
